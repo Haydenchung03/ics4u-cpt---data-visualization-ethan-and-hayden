@@ -1,4 +1,4 @@
-/* ....Show License.... */
+
 package charts;
  
 import javafx.application.Application;

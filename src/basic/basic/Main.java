@@ -16,8 +16,8 @@ import javafx.scene.text.FontWeight;
 
 // Layout Imports
 import javafx.scene.layout.VBox;
-import javafx.geometry.Pos;
-import javafx.geometry.Insets;
+//import javafx.geometry.Pos;
+//import javafx.geometry.Insets;
 
 public class Main extends Application {
     public void start(Stage primaryStage) throws Exception {
